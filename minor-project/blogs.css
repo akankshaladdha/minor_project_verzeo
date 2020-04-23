@@ -1,0 +1,151 @@
+.section3
+{
+    display:flex;
+    flex-direction: column;
+    overflow: hidden;
+    background-size: cover;
+    padding:0;
+    background-color: rgb(250, 181, 246);
+}
+#posts
+ {
+   font-size: 30px;
+   text-align:center;
+   font-weight: bolder;
+   background-color: rgb(206, 247, 111);  
+    top:0;
+   padding:30px;
+   margin:0;
+   margin-bottom: 20px;
+   color:rgb(182, 16, 16);
+    font-family: cursive;
+   box-shadow: 0px 5px 0px black;
+ }
+.row1,.row2
+{
+    display: flex;
+    flex-direction: row;
+    width: 100%;
+    margin-left: 42px;
+
+
+}
+.col img
+{
+   cursor: pointer;
+    width:425px;
+    /*flex-basis: 33%;
+   */
+}
+.col
+{
+    border: 4px solid black;
+    padding: 0;
+    margin: 20px; 
+    margin-left:15px;
+    width:425px;
+    text-align: center;
+    background-image: url('pirin.jpg');
+    background-size:425px 300px;
+    background-repeat: no-repeat;
+    border-radius:30px;
+    height: 300px;
+
+   
+}
+.budapest
+{
+    
+    background-image: url('budapest.jpg');
+    
+   
+}
+.cappadocia
+{
+    background-image: url('cappadocia.jpg');
+}
+.zagreb
+{
+    background-image: url('zagreb.jpg');
+}
+.france
+{
+    background-image: url('france.jpg');
+}
+.lithuania
+{
+    background-color: url('lithuania.jpg');
+}
+.col .text{
+    opacity: 0;
+    padding: 10px;
+   background-color: rgba(255, 255, 255, 0.5);
+}
+
+.col h3{
+    font-size: 25px;
+    margin-top: 5px;
+}
+
+.col:hover img{
+    opacity: 0.5;
+}
+
+.col:hover .text{
+    opacity: 1;
+}
+
+.col .img-con
+{
+    padding-right:0;
+    padding-top:30px;
+   
+}
+
+#exp_taj,#exp_syd,#exp_giza,#exp_paris,#exp_canyon,#exp_kuala,#exp_iguaza
+{
+    font-size:20px;
+    color:black;
+    display: none;
+}
+#exp_taj img,#exp_syd img,#exp_giza img,#exp_paris img,#exp_canyon img,#exp_kuala img,#exp_iguaza img
+{
+    float:left;
+    width: 300px;
+    height: 350px;
+    border-radius: 30px;
+    border: 4px solid black;
+    margin: 10px;
+}
+#exp_taj p,#exp_syd p,#exp_giza p,#exp_paris p,#exp_canyon p,#exp_kuala p,#exp_iguaza p
+{
+    padding: 12px;
+    padding-top:0;
+    margin-top:0;
+    top:0;
+}
+#exp_taj h3,#exp_syd h3,#exp_giza h3,#exp_paris h3,#exp_canyon h3,#exp_kuala h3,#exp_iguaza h3
+{
+    text-align:center;
+    color:  rgb(21, 93, 226);
+    font-size: 27px;
+    font-family: cursive;
+    margin-top:0;
+}
+#close
+{
+    padding: 12px;
+    color: white;
+    background-color: black;
+    border: none;
+    width: 80px;
+    border-radius: 20px;
+    cursor: pointer;
+    outline: none;
+}
+.cards
+{
+    background-color: rgb(153, 245, 180);
+    margin:0;
+    padding:0;
+}

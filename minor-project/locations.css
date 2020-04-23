@@ -1,0 +1,178 @@
+.section2 .taj img
+ {
+   width: 120px;
+   height: 100px;
+  right: 15%;
+  top: 1210px;
+  position:absolute;
+  border:4px solid black;
+  padding:0;
+  padding-bottom: 30px;
+  background-color: black;
+  border-radius: 10px;
+  cursor: pointer;
+
+}
+.taj-des
+{
+  text-align: center;
+  padding: 12px 12px;
+  top: 1290px;
+  bottom: 30px;
+  position:absolute;
+  right: 16%;
+  color:white;
+}
+.section2 .sydney img
+{
+    width:122px;
+    height: 100px;
+    top:1600px;
+    right: 9%;
+    position:absolute;
+    border:4px solid black;
+    padding:0;
+    padding-bottom: 30px;
+  background-color:black;
+  border-radius: 10px;
+  cursor: pointer;
+
+}
+.syd-des
+{
+  text-align: center;
+  padding: 14px  15px 14px;
+  top: 1680px;
+  bottom: 30px;
+  position:absolute;
+  right: 8.5%;
+  color:white;
+}
+
+.section2 .giza img
+ {
+   width: 120px;
+   height: 100px;
+  right: 41%;
+  top: 1350px;
+  position:absolute;
+  border:4px solid black;
+  padding:0;
+  padding-bottom: 30px;
+  background-color: black;
+  border-radius: 10px;
+  cursor: pointer;
+
+}
+.giza-des
+{
+  text-align: center;
+  padding: 12px 12px;
+  top: 1430px;
+  bottom: 30px;
+  position:absolute;
+  right: 42%;
+  color:white;
+}
+.section2 .arizona img
+ {
+   width: 120px;
+   height: 100px;
+  right: 77%;
+  top: 1178px;
+  position:absolute;
+  border:4px solid black;
+  padding:0;
+  padding-bottom: 30px;
+  background-color: black;
+  border-radius: 10px;
+  cursor: pointer;
+
+}
+.grand-des
+{
+  text-align: center;
+  padding: 12px 12px;
+  top: 1265px;
+  bottom: 30px;
+  position:absolute;
+  right: 77%;
+  color:white;
+}
+.section2 .iguaza img
+ {
+   width: 120px;
+   height: 100px;
+  right: 62%;
+  top: 1650px;
+  position:absolute;
+  border:4px solid black;
+  padding:0;
+  padding-bottom: 30px;
+  background-color: black;
+  border-radius: 10px;
+  cursor: pointer;
+
+}
+.iguaza-des
+{
+  text-align: center;
+  padding: 12px 12px;
+  top: 1730px;
+  bottom: 30px;
+  position:absolute;
+  right: 63%;
+  color:white;
+}
+.section2 .eiffel img
+ {
+   width: 120px;
+   height: 100px;
+  right: 48%;
+  top: 1075px;
+  position:absolute;
+  border:4px solid black;
+  padding:0;
+  padding-bottom: 30px;
+  background-color: black;
+  border-radius: 10px;
+  cursor: pointer;
+
+}
+.eiffel-des
+{
+  text-align: center;
+  padding: 12px 12px;
+  top: 1155px;
+  bottom: 30px;
+  position:absolute;
+  right: 48.5%;
+  color:white;
+}
+.section2 .kuala img
+ {
+   width: 125px;
+   height: 100px;
+  right: 5.5%;
+  top: 1380px;
+  position:absolute;
+  border:4px solid black;
+  padding:0;
+  padding-bottom: 50px;
+  background-color: black;
+  border-radius: 10px;
+  cursor: pointer;
+
+}
+.kuala-des
+{
+  text-align: center;
+  padding: 13px 13px;
+  top: 1460px;
+  word-wrap: break-all;
+  width:125px;
+  bottom: 30px;
+  position:absolute;
+  right: 5%;
+  color:white;
+}
